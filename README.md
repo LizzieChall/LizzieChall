@@ -2,7 +2,7 @@
 🚧 Currently Building:<br>A machine learning-powered Paint Job Cost Estimator — predicts pricing from job specs and images. Integrated real-time pricing, optimized with RMSLE, and deployed with Streamlit for fast, user-friendly predictions.<br><br>🤝 Open to Collaborate On:<br>AI/ML apps, creative frontend tools, or anything that blends tech + real-world utility. Bonus points if it involves computer vision or interactive UIs.<br><br>📚 Currently Learning:<br>Leveling up through ZTM Academy — focused on full-stack AI development, model deployment, and clean, scalable app design.<br><br>🎨 Fun Fact: I see color gradients in CSS and instantly think of paint swatches. Occupational hazard.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elizabeth-challenger) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizzchalenger@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-orchid?style=flat&logo=portfolio&logoColor=orchid&logoSize=auto)](https://elizabethchallenger.netlify.app/)
 
 # 💻 Tech Stack:
