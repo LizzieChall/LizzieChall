@@ -6,7 +6,7 @@ A data analytics portfolio spanning SaaS, people analytics, and healthcare — i
 BI dashboards, SQL deep-dives, or analytics projects in SaaS, healthcare, or fintech. Especially interested in work where domain knowledge changes the answer — not just the query.<br><br>
 
 📚 Currently Learning:<br>
-Leveling up through a BI Analytics bootcamp — SQL, Power BI, and Excel for end-to-end analysis. Bringing 8 years of clinical experience and an MBA to the data layer.<br><br>
+Leveling up through an Analytics bootcamp — SQL, Python, Power BI, and Excel for end-to-end analysis. Bringing 8 years of clinical experience and an MBA to the data layer.<br><br>
 
 🎨 Fun Fact:<br>
 I went from reading patient vitals to reading dashboards. Turns out spotting trends under pressure translates pretty well.
