@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚧 Currently Building:<br>
-A data analytics portfolio spanning SaaS, people analytics, and healthcare — including a Payment Funnel Analysis, Subscription Cancellation Analysis, and externship projects with Amazon People Analytics and TruBridge Healthcare. Focused on turning messy data into decisions that actually matter.<br><br>
+A data analytics portfolio spanning SaaS, people analytics, and healthcare — including a Payment Funnel Analysis, Subscription Cancellation Analysis, and externship project with Amazon People Analytics. Focused on turning messy data into decisions that actually matter.<br><br>
 
 🤝 Open to Collaborate On:<br>
 BI dashboards, SQL deep-dives, or analytics projects in SaaS, healthcare, or fintech. Especially interested in work where domain knowledge changes the answer — not just the query.<br><br>
