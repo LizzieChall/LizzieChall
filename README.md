@@ -1,14 +1,26 @@
 # 💫 About Me:
-🚧 Currently Building:<br>
-A data analytics portfolio spanning SaaS, Marketing analytics, and people analytics — including a Payment Funnel Analysis, Subscription Cancellation Analysis, and externship project with Amazon People Analytics and SQL and Database Design Marketing Analytics. Focused on turning messy data into decisions that actually matter.<br><br>
 
-🤝 Open to Collaborate On:<br>
-BI dashboards, SQL deep-dives, or analytics projects in SaaS, healthcare, or fintech. Especially interested in work where domain knowledge changes the answer — not just the query.<br><br>
+**📊 Freelance Data Analyst**  
 
-📚 Currently Learning:<br>
-Leveling up through an Analytics bootcamp — SQL, Python, Power BI, and Excel for end-to-end analysis. Bringing 8 years of clinical experience and an MBA to the data layer.<br><br>
+I help e-commerce, SaaS, and FinTech businesses answer the questions their data hasn't been able to answer yet — because it's scattered across six exports, never reconciled, and sitting in someone's downloads folder.
 
-🎨 Fun Fact:<br>
+**🔍 What I Do:**  
+Database design · Marketing attribution · Funnel & conversion analysis · Churn & retention analysis · SQL, Python, and dashboard delivery.  
+I don't just hand back numbers — I hand back a decision.
+
+**🤝 Available For:**  
+Freelance analytics projects for small to mid-size businesses. Especially effective where the data exists but hasn't been connected yet — e-commerce stores, SaaS products, and subscription businesses.
+
+**🚧 Recent Work:**
+
+E-Commerce Marketing Analytics — unified 6 disconnected data sources into a queryable database, attributed $37K in ad spend to revenue, and delivered a Q4 holiday game plan for an indie product company.  
+
+Payment Funnel Analysis — identified why 40.7% of SaaS subscribers never start the payment process.  
+
+Subscription Cancellation Analysis — surfacing churn patterns across a subscription product.
+
+**⚡ Background:**  
+8 years in clinical healthcare + an MBA. 
 I went from reading patient vitals to reading dashboards. Turns out spotting trends under pressure translates pretty well.
 
 ## 🌐 Socials:
