@@ -24,7 +24,7 @@ Subscription Cancellation Analysis — surfacing churn patterns across a subscri
 I went from reading patient vitals to reading dashboards. Turns out spotting trends under pressure translates pretty well.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-challenger) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizzchalenger@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-orchid?style=flat&logo=portfolio&logoColor=orchid&logoSize=auto)](https://elizabethchallenger.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-challenger) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizzchalenger@gmail.com) 
 
 ## 💻 Tech Stack:
 #### Languages & Querying
